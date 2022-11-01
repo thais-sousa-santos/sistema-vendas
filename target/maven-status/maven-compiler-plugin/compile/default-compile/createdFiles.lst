@@ -1,0 +1,14 @@
+br\com\gerenciador\vendas\dominio\pessoa\Pessoa.class
+br\com\gerenciador\vendas\dominio\pessoa\Telefone.class
+br\com\gerenciador\vendas\aplicacao\CadastrarPessoaDto.class
+br\com\gerenciador\vendas\infra\PessoaRepositoryImpl.class
+br\com\gerenciador\vendas\aplicacao\CadastrarPessoa.class
+br\com\gerenciador\vendas\dominio\pessoa\PessoaBuilder.class
+br\com\gerenciador\vendas\dominio\pessoa\Vendedor.class
+br\com\gerenciador\vendas\dominio\pessoa\Cliente.class
+br\com\gerenciador\vendas\dominio\produto\Venda.class
+br\com\gerenciador\vendas\dominio\pessoa\PessoaNaoEncontrada.class
+br\com\gerenciador\vendas\dominio\pessoa\PessoaRepository.class
+br\com\gerenciador\vendas\dominio\produto\Estoque.class
+br\com\gerenciador\vendas\dominio\produto\Produto.class
+br\com\gerenciador\vendas\GerenciadorVendas.class

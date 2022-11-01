@@ -1,0 +1,14 @@
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\aplicacao\CadastrarPessoa.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\dominio\pessoa\PessoaNaoEncontrada.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\dominio\pessoa\Telefone.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\dominio\pessoa\Pessoa.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\aplicacao\CadastrarPessoaDto.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\dominio\pessoa\PessoaBuilder.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\dominio\produto\Estoque.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\GerenciadorVendas.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\dominio\pessoa\Cliente.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\dominio\produto\Venda.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\dominio\pessoa\PessoaRepository.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\dominio\produto\Produto.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\dominio\pessoa\Vendedor.java
+D:\dev-utils\ws-idea\sistema-vendas\src\main\java\br\com\gerenciador\vendas\infra\PessoaRepositoryImpl.java
