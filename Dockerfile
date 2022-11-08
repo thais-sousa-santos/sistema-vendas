@@ -1,8 +1,8 @@
-FROM openjdk:11-jre-slim
+FROM openjdk:11
 
-WORKDIR /vendas
+WORKDIR . /usr/src/main
 
-COPY target/*.jar /vendas/app.jar
+COPY target/*.jar /main/app.jar
 
 EXPOSE 8080
 

@@ -11,6 +11,15 @@ public class Vendedor extends Pessoa {
 
     private Long idVendedor;
 
+    public Vendedor(Long idVendedor) {
+        this.idVendedor = idVendedor;
+    }
+
+    public Vendedor(String nome, String documento, String endereco, String perfil, Long idVendedor) {
+        super(nome, documento, endereco, perfil);
+        this.idVendedor = idVendedor;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

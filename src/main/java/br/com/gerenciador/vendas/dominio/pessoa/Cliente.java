@@ -10,6 +10,17 @@ public class Cliente extends Pessoa {
     private Long id;
     private String email;
 
+    public Cliente(Long id, String email) {
+        this.id = id;
+        this.email = email;
+    }
+
+    public Cliente(String nome, String documento, String endereco, String perfil, Long id, String email) {
+        super(nome, documento, endereco, perfil);
+        this.id = id;
+        this.email = email;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
