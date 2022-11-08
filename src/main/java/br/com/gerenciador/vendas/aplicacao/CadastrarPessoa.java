@@ -12,7 +12,8 @@ public class CadastrarPessoa {
     }
 
     public void executar(CadastrarPessoaDto dados){
-        Pessoa novo = dados.criarPessoa();
-        repository.cadastrar(novo);
+        Pessoa novaPessoa = dados.criarPessoa();
+        repository.cadastrar(novaPessoa);
+        System.out.println(novaPessoa);
     }
 }

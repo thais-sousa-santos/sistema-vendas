@@ -12,7 +12,7 @@ public class PessoaRepositoryImpl implements PessoaRepository {
     private List<Pessoa> cadastrados = new ArrayList<>();
     @Override
     public void cadastrar(Pessoa pessoa) {
-        this.cadastrados.add(pessoa);
+
     }
 
     @Override
